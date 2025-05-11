@@ -1,4 +1,9 @@
-## Hi there 👋
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/868b4805-b827-4fe1-9054-aa4061fb0af1" alt="Image" />
+</p>
+
 
 <!--
 **Rossenzii/Rossenzii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
